@@ -5,6 +5,18 @@ it has only one keyword for now that is
 yap(message)→ it don't need quotation 
 
 frist step:create a file with xos extension
+
 example:Xscript.xos
+
 second step:Write yap(hello, world) 
-third:run python 'runner.py' Xscript.xos(it throw error if it detect space before '('
+
+third step:
+run python 'runner.py' Xscript.xos
+
+(it throw error if it detect space before '(' ) 
+
+make sure runner.py should be in same folder. 
+
+tip:create a folder name 'Xos Script'
+
+and copy-paste runner.py in it. 
